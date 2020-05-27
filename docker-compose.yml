@@ -2,6 +2,6 @@ version: '3'
 
 services:
   web:
-    image: noahwesselmann:latest
+    image: paulwesselmann:latest
     ports:
       - "80:80"
